@@ -1,1 +1,1 @@
-Python for Data Science
+Python Libraries for Data Science: Numpy, Matplotlib, Scikit-learn
